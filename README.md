@@ -19,9 +19,9 @@
 <div align="center" style="display: inline_block">
   <h4> Knowledge about the following programming languages: </h4>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <a href="https://kotlinlang.org/" target="_blank"><img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
