@@ -23,6 +23,7 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <a href="https://kotlinlang.org/" target="_blank"><img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
   
   <br>
@@ -30,10 +31,10 @@
 <!-- IDE's -->
 <div align="center" style="display: inline_block">
   <h4> Most common IDE's used: </h4>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <a href="https://developer.android.com/studio" target="_blank"><img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-  <a href="https://www.mysql.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <a href="https://www.mysql.com/products/workbench/" target="_blank"><img align="center" src="https://img.shields.io/badge/MySQL%20workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
   
   <br>
