@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="150" height="150"></img>
 </div>
-<h1 align="center">My name is Nuno and I'm a IT student.</h1>
+<h1 align="center">My name is Nuno and I'm a web developer.</h1>
 
 <br>
 <br>
