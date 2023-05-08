@@ -50,3 +50,5 @@
   <a href="https://twitter.com/nunoa8" target="_blank"><img align="center" alt="Twitter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
   <a href="https://codepen.io/nuno-ara-jo" target="_blank"><img align="center" alt="Codepen" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"></a>
 </div>
+
+![Snake animation](https://github.com/hotnunstar/hotnunstar/blob/output/github-contribution-grid-snake.svg)
