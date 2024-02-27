@@ -47,7 +47,7 @@
   <a href="https://www.facebook.com/nuno.araujo.1253" target="_blank"><img align="center" alt="Facebook" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg"></a>
   <a href="https://www.instagram.com/nuno.69/" target="_blank"><img align="center" alt="Instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
   <a href="https://twitter.com/nunoa8" target="_blank"><img align="center" alt="Twitter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"></a>
-  <a href="https://codepen.io/nuno-ara-jo" target="_blank"><img align="center" alt="Codepen" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"></a>
+  <a href="https://codepen.io/nuno-ara-jo" target="_blank"><img align="center" alt="Codepen" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg"></a>
 </div>
 
 <br>
