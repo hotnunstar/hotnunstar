@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="150" height="150"></img>
 </div>
-<h1 align="center">My name is Nuno and I'm a Web Developer.</h1>
+<h1 align="center">My name is Nuno and I'm Web Developer.</h1>
 
 <br>
 <br>
@@ -53,4 +53,4 @@
 <br>
 
 <!-- Snake Animation -->
-<!-- ![Snake animation](https://github.com/hotnunstar/hotnunstar/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/hotnunstar/hotnunstar/blob/output/github-contribution-grid-snake.svg)
