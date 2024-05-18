@@ -53,4 +53,4 @@
 <br>
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/hotnunstar/hotnunstar/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/hotnunstar/hotnunstar/blob/output/github-contribution-grid-snake.svg)-->
