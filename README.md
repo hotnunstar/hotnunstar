@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="150" height="150"></img>
 </div>
-<h1 align="center">My name is Nuno and I'm Web Developer.</h1>
+<h1 align="center">My name is Nuno and I'm Full Stack Developer.</h1>
 
 <br>
 <br>
@@ -18,13 +18,15 @@
   
 <!-- Languages -->  
 <div align="center" style="display: inline_block">
-  <h4> Knowledge about the following programming languages:</h4>
+  <h4> Knowledge about the following technologies:</h4>
+  <a href="https://react.dev/" target="_blank"><img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></a>
-  <a href="https://www.php.net/" target="_blank"><img align="center" alt="PHP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+  <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"></a>
+  <a href="https://nodejs.org/pt" target="_blank"><img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"></a>
 </div>
   
 <br>
@@ -33,8 +35,8 @@
 <div align="center" style="display: inline_block">
   <h4> Most common IDE's used: </h4>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-  <a href="https://www.mysql.com/products/workbench/" target="_blank"><img align="center" src="https://img.shields.io/badge/MySQL%20workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://www.postman.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Postman-F26B3A?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4FAA41?style=for-the-badge&logoColor=white"></a>
 </div>
   
 <br>
