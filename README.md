@@ -19,14 +19,12 @@
 <!-- Languages -->  
 <div align="center" style="display: inline_block">
   <h4> Knowledge about the following technologies:</h4>
-  <a href="https://react.dev/" target="_blank"><img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></a>
-  <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"></a>
-  <a href="https://nodejs.org/pt" target="_blank"><img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></a>
 </div>
   
 <br>
@@ -34,9 +32,9 @@
 <!-- IDE's -->
 <div align="center" style="display: inline_block">
   <h4> Most common IDE's used: </h4>
-  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
   <a href="https://www.postman.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Postman-F26B3A?style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4FAA41?style=for-the-badge&logoColor=white"></a>
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 </div>
   
 <br>
