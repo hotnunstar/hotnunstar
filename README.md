@@ -19,12 +19,13 @@
 <!-- Languages -->  
 <div align="center" style="display: inline_block">
   <h4> Knowledge about the following technologies:</h4>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="center" alt="dotNet Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"></a>
+  <a href="https://react.dev/" target="_blank"><img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
   <a href="https://www.javascript.com/" target="_blank"><img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></a>
 </div>
   
 <br>
