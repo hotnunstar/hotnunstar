@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="150" height="150"></img>
 </div>
 <h1 align="center">My name is Nuno and I'm Full Stack Developer.</h1>
+<div align="center"><b>Main stacks: React & .NET & SQL Server </b></div>
 
 <br>
 <br>
