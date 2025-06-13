@@ -35,6 +35,7 @@
 <!-- IDE's -->
 <div align="center" style="display: inline_block">
   <h4> Most common IDE's used: </h4>
+  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
   <a href="https://www.postman.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Postman-F26B3A?style=for-the-badge&logoColor=white"></a>
   <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
