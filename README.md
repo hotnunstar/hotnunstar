@@ -58,5 +58,5 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hotnunstar/hotnunstar/output/github-contribution-grid-snake.gif" alt="Animated contribution graph snake" />
+  <img src="https://raw.githubusercontent.com/hotnunstar/hotnunstar/output/github-snake-dark.svg" alt="Animated contribution graph snake" />
 </p>
