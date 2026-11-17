@@ -10,8 +10,8 @@
 <!-- Github Stats -->
 <div align="center">
   <a href="https://github.com/hotnunstar">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hotnunstar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotnunstar&layout=compact&langs_count=8&theme=algolia&cache_seconds=7200"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hotnunstar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hotnunstar&layout=compact&langs_count=8&theme=algolia&cache_seconds=7200&hide_border=true"/>
   </a>
 </div>
   
@@ -57,4 +57,6 @@
 <br>
 
 <!-- Snake Animation -->
-<!--![Snake animation](https://github.com/hotnunstar/hotnunstar/blob/output/github-contribution-grid-snake.svg)-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hotnunstar/hotnunstar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
