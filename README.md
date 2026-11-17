@@ -57,4 +57,6 @@
 <br>
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/hotnunstar/hotnunstar/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hotnunstar/hotnunstar/output/github-contribution-grid-snake.gif" alt="Animated contribution graph snake" />
+</p>
